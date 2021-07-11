@@ -1,0 +1,14 @@
+section,
+footer {
+  padding: 60px 0;
+  position: relative;
+  overflow: hidden;
+}
+#k12::before {
+  content: "sm";
+}
+.feature > i {
+  color: #387EF6;
+  opacity: 0.45;
+}
+/*# sourceMappingURL=custom.css.map */
